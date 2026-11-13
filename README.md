@@ -27,9 +27,9 @@ Benefits:
 
 ## Proposed Solution
 1. Detailed explanation of the proposed solution:
-```
+
 FARMER BELEIF is a toll-free phone number that any farmer can call from a basic keypad phone. A voice system speaks to the farmer in their own language (Tamil, Hindi, Telugu, etc.), tells them the price, and connects them to buyers.
-```
+
 2. How it addresses the problem:
 ```
   -->The farmer dials 1818 and speaks: crop name, quantity, and when it will be ready.
